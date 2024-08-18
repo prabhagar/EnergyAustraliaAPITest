@@ -1,4 +1,4 @@
-**Playwright API Test**
+**Energy Australia - Playwright API Test**
 Purpose:
 
 This Playwright test script is designed to validate the structure of a specific API response. The primary goal is to ensure the response is an array of objects, each containing a 'bands' array, and optionally a 'name' property.

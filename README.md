@@ -12,7 +12,7 @@ Playwright installed (npm install playwright)
 
 Clone this repository.
 Install dependencies: npm install
-Replace https://your-api-endpoint and /your-endpoint with the actual API endpoint.
+
 Running the Test:
 
 Install Playwright runner in visual studio code and click Green play button in test to execute
